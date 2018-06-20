@@ -1,3 +1,4 @@
 .vscode/
 coco/
-coco_sample/
+coco_sample_seen/
+coco_sample_unseen/
